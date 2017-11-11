@@ -11,8 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-<h1>Hello World!</h1>
-<p1>My name is JTokos</p>
+# Hello World! My name is JTokos!
 ## Header 2
 ### Header 3
 
